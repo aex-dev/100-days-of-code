@@ -3,11 +3,14 @@ Documenting my #100daysofcode in Python
 
 - [Instagram](https://www.instagram.com/aex.dev/?hl=en)
 
+**Starting on: 06/18/2019
+
 ## Log
 
 ---
 
-### :date: Day 1 06/18/2019:
+### :date: Day 1:
+06/18/2019
 
 **What I did:** Today I decided to dive into Python, using Zero to Hero in Python 3 off of Udemy. Spent most of my time setting up my environment. I am using a custom built PC with dual monitors and a Dell Latitude 7480 for hardware. For software I am using sublime text and anaconda. 
 
