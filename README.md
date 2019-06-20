@@ -24,7 +24,7 @@ Documenting my #100daysofcode in Python
 
 ---
 
-### :date: Day :
+### :date: Day 2:
 06/19/2019
 
 **What I did:** Today I did not do much coding, it was more about learning the basics regarding Python objects and data structures. There were two hours worth of video to go through but I sped it up to 1.25 speed. I got most of section 3 done.
