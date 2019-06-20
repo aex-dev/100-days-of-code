@@ -13,14 +13,11 @@ Documenting my #100daysofcode in Python
 
 **Thoughts: Glad I finally decided to go from watching to actually doing. Didnt do anything major, but little drops of water make a mighty ocean.
 
-**Link(s) to Anaconda:** [Anaconda]
-(https://www.anaconda.com/distribution/)
+**Link(s) to Anaconda:** [Anaconda](https://www.anaconda.com/distribution/)
 
-**Link(s) to Sublime Text:** [Sublime Text]
-(https://www.sublimetext.com/)
+**Link(s) to Sublime Text:** [Sublime Text](https://www.sublimetext.com/)
 
-**Link(s) to Udemy Course:** [Zero to Hero in Python 3]
-(https://www.udemy.com/complete-python-bootcamp/)
+**Link(s) to Udemy Course:** [Zero to Hero in Python 3](https://www.udemy.com/complete-python-bootcamp/)
 
 ---
 
