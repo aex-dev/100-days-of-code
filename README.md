@@ -24,5 +24,15 @@ Documenting my #100daysofcode in Python
 
 ---
 
+### :date: Day :
+06/19/2019
+
+**What I did:** Today I did not do much coding, it was more about learning the basics regarding Python objects and data structures. There was two hours worth of video to go through but I sped it up to 1.25 speed. I got most of this section 3 done.
+
+**Thoughts:** A lot of the basics felt easy to digest. I ended up doing like an hour and 30 minutes, should probably move some stuff around in my schedule. (I schedule my days in 30 minute blocks)
+
+**Link(s) to Udemy Course:** [Zero to Hero in Python 3](https://www.udemy.com/complete-python-bootcamp/)
+
+---
 
 
