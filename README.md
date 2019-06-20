@@ -3,7 +3,7 @@ Documenting my #100daysofcode in Python
 
 - [Instagram](https://www.instagram.com/aex.dev/?hl=en)
 
-**Starting on: 06/18/2019
+**Starting on: 06/18/2019**
 
 ## Log
 
