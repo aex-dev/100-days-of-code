@@ -12,7 +12,7 @@ Documenting my #100daysofcode in Python
 ### :date: Day 3:
 06/20/2019
 
-**What I did:** Wrapped up Section 3 Python Object and Data Structure Basics, Section 4 Python Comparison Operators, Section 5 Python Statements,and got about half of the way done with Section 6 Methods and Functions. Section 7 is actually the first milestone project! I am actually very excited to make my first tic-tac-toe game. I will probably be working that section hard becasues its my first "program".
+**What I did:** Wrapped up Section 3 Python Object and Data Structure Basics, Section 4 Python Comparison Operators, Section 5 Python Statements,and got about half of the way done with Section 6 Methods and Functions. Section 7 is actually the first milestone project! I am actually very excited to make my first tic-tac-toe game. I will probably be working that section hard because its my first "program".
 
 **Thoughts:** Python is dope!
 
