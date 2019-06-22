@@ -9,6 +9,17 @@ Documenting my #100daysofcode in Python
 
 ---
 
+### :date: Day 4:
+06/21/2019
+
+**What I did:** Today I went back to hit on some of the basic things I learned the last couple of days. I started looking at the Tic-Tac-Toe project and I am making good headway. Kinda wish I had a stronger skill set to make the Tic-Tac-Toe game better, I will definitly be revisiting this project as my skillset matures.
+
+**Thoughts:** First Project is fun. I can't imagine how many lines of code full blown games have!
+
+**Link(s) to Udemy Course:** [Zero to Hero in Python 3](https://www.udemy.com/complete-python-bootcamp/)
+
+---
+
 ### :date: Day 3:
 06/20/2019
 
