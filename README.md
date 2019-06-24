@@ -9,6 +9,23 @@ Documenting my #100daysofcode in Python
 
 ---
 
+### :date: Day 5 & 6:
+06/22/2019 - 06/23/3019
+
+**What I did:** So this is my first weekend during the #100daysofcode challenge, and let me tell you, when my time opened up, so did the rabbit hole! I ended up downloading android studio, got like 3 books, and somehow ended up downloading Unity. Luckily I worked a little on the Tic-Tac-Toe project in the Udemy course, but then I found a way to translate Python to Java and thus creating an android app. I'm currently trying to get the Java JDK in order to make my little Python Tic-Tac-Toe game into an App, but apparently they want me to get an account, sigh. But I am not ready for that, I know myself and I dont want to start Jave before I get a grasp on Python. 
+
+**Thoughts:** It's so so so so easy to get distracted! The amount of languages and technology out there is astounding. Going to try to focus on Python, although that may be hard since I am going to be doubling down for the CompTIA Network+ exam I have scheduled for friday. Wish me luck!
+
+**Link(s) to Udemy Course:** [Zero to Hero in Python 3](https://www.udemy.com/complete-python-bootcamp/)
+
+**Link(s) to Meetup:** [Python Meetup Groups](https://www.meetup.com/topics/python/)
+
+**Link(s) to Beeware:** [BeeWare](https://beeware.org/)
+
+**Link(s) to CompTIA Network +:** [CompTIA Network+](https://certification.comptia.org/certifications/network)
+
+---
+
 ### :date: Day 4:
 06/21/2019
 
