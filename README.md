@@ -20,7 +20,7 @@ Documenting my #100daysofcode in Python
 
 **Link(s) to Meetup:** [Python Meetup Groups](https://www.meetup.com/topics/python/)
 
-**Link(s) to Beeware:** [BeeWare](https://beeware.org/)
+**Link(s) to Beeware:** [BeeWare & Android](https://beeware.org/project/using/android-app/)
 
 **Link(s) to CompTIA Network +:** [CompTIA Network+](https://certification.comptia.org/certifications/network)
 
