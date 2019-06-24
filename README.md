@@ -1,4 +1,4 @@
-# 100-days-of-code
+# 100-days-of-code Journal
 Documenting my #100daysofcode in Python
 
 - [Instagram](https://www.instagram.com/aex.dev/?hl=en)
