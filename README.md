@@ -26,9 +26,11 @@ Documenting my #100daysofcode in Python
 
 **What I did:** Worked on knocking out some modules on Udemy. I have the CompTIA Network + exam on friday, so I was not able to put in more then the minimum hour for Python. For those of you who do not know, the Network + is a vendor neutral certifcation going over the basics of computer Networking.It was my first love transitioning into tech and will be an important personal milestone to hit. Wish me luck!
 
-**Thoughts:** One thing I have come to learn the last couple of days is how vast technology really is and how I am only touching on two small slivers of it, Python and Networking. I hope to one day combine these two and make a good living off of them. That being said, I feel like the goal of just learning Python is too broad. I'm going to spend some time tonight thinking about some projects I want to accomplish to keep me better motivated in my academic endeavors of Python. I will post that tomorrow. 
+**Thoughts:** One thing I have come to learn the last couple of days is how vast technology really is and how I am only touching on two small slivers of it, Python and Networking. I hope to one day combine these two and make a good living off of them. That being said, I feel like the goal of just learning Python is too broad. I'm going to spend some time tonight thinking about some projects I want to accomplish to keep me better motivated in my academic endeavors with Python. I will post that tomorrow. 
 
 **Link(s) to Udemy Course:** [Zero to Hero in Python 3](https://www.udemy.com/complete-python-bootcamp/)
+
+**Link(s) to CompTIA Network +:** [CompTIA Network+](https://certification.comptia.org/certifications/network)
 
 ---
 
